@@ -6,3 +6,11 @@
 ||google-analytics.com^
 ||doubleclick.net^
 ||googlesyndication.com^
+||jixie.io^
+||chartbeat.com^
+||rubiconproject.com^
+||yandex.ru^
+||jixie.media^
+||kargo.com^
+||richaudience.com^
+||presage.io^
