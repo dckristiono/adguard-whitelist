@@ -1,0 +1,8 @@
+||creativecdn.com^
+||casalemedia.com^
+||gumgum.com^
+||smartadserver.com^
+||openx.net^
+||google-analytics.com^
+||doubleclick.net^
+||googlesyndication.com^
