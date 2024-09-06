@@ -14,3 +14,13 @@
 ||kargo.com^
 ||richaudience.com^
 ||presage.io^
+||ssp-sync.criteo.com^
+||ping.chartbeat.net^
+||tracker.oval.id^
+||hit.api.useinsider.com^
+||adsimg.kompas.com^
+||prebid.smilewanted.com^
+||hbopenbid.pubmatic.com^
+||a.teads.tv^
+||api2.branch.io^
+||ingest.sentry.io^
