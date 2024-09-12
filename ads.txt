@@ -24,3 +24,4 @@
 ||a.teads.tv^
 ||api2.branch.io^
 ||ingest.sentry.io^
+||mac-cdn.bluestacks.com^
