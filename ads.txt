@@ -25,3 +25,4 @@
 ||api2.branch.io^
 ||ingest.sentry.io^
 ||mac-cdn.bluestacks.com^
+||net.geo.opera.com^
