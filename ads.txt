@@ -26,4 +26,3 @@
 ||ingest.sentry.io^
 ||mac-cdn.bluestacks.com^
 ||net.geo.opera.com^
-||accounts.onumanager.com^
