@@ -27,3 +27,5 @@
 ||mac-cdn.bluestacks.com^
 ||net.geo.opera.com^
 ||adtrafficquality.google^
+||amplitude.com^
+||app-analytics-services.com^
