@@ -31,3 +31,4 @@
 ||app-analytics-services.com^
 ||whatsapp.net^
 ||moengage.com^
+||ca.iadsdk.apple.com^
