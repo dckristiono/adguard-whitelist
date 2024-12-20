@@ -29,3 +29,4 @@
 ||adtrafficquality.google^
 ||amplitude.com^
 ||app-analytics-services.com^
+||whatsapp.net^
