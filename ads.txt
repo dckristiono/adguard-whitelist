@@ -32,3 +32,6 @@
 ||whatsapp.net^
 ||moengage.com^
 ||ca.iadsdk.apple.com^
+||init.supersonicads.com^
+||applovin.com^
+||applvn.com^
