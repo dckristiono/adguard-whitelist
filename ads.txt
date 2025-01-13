@@ -35,3 +35,6 @@
 ||init.supersonicads.com^
 ||applovin.com^
 ||applvn.com^
+||cdn.izooto.com^
+||click.advertnative.com^
+||cdn.prod.uidapi.com^
