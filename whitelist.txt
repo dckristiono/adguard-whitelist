@@ -1,4 +1,3 @@
 ||steamunlocked.net^
 ||app-measurement.com^
 ||analytics.google.com^
-||google.com^
