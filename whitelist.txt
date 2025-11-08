@@ -1,3 +1,6 @@
 ||steamunlocked.net^
 ||app-measurement.com^
 ||analytics.google.com^
+||google.com^
+||ecsv2.roblox.com^
+
