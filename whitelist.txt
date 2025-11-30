@@ -48,3 +48,5 @@
 ||notes-analytics-events.apple.com^
 ||ogads-pa.googleapis.com^
 ||guid.tpns.sgp.tencent.com^
+||sspapi-prd.samsungrs.com^
+||id.info.lgsmartad.com^
