@@ -41,3 +41,5 @@
 ||static.cloudflareinsights.com^
 ||gcp.gvt2.com^
 ||diagmon-serviceapi.samsungdm.com^
+||notes-analytics-events.apple.com^
+||ogads-pa.googleapis.com^
