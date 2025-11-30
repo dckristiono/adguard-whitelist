@@ -43,3 +43,4 @@
 ||diagmon-serviceapi.samsungdm.com^
 ||notes-analytics-events.apple.com^
 ||ogads-pa.googleapis.com^
+||guid.tpns.sgp.tencent.com^
