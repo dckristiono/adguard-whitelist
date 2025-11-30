@@ -41,6 +41,10 @@
 ||static.cloudflareinsights.com^
 ||gcp.gvt2.com^
 ||diagmon-serviceapi.samsungdm.com^
+||grs.dbankcloud.asia^
+||grs.dbankcloud.com^
+||grs.dbankcloud.eu^
+||grs.dbankcloud.cn^
 ||notes-analytics-events.apple.com^
 ||ogads-pa.googleapis.com^
 ||guid.tpns.sgp.tencent.com^
