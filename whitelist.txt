@@ -1,7 +1,6 @@
 ||steamunlocked.net^
 ||app-measurement.com^
 ||analytics.google.com^
-||beacons.gcp.gvt2.com^
 ||beacons.gvt2.com^
 ||beacons2.gvt2.com^
 ||beacons3.gvt2.com^
@@ -22,8 +21,6 @@
 ||ichnaea.netflix.com^
 ||metrics.roblox.com^
 ||ecsv2.roblox.com^
-||gce-beacons.gcp.gvt2.com^
-||e2c37.gcp.gvt2.com^
 ||androidtvwatsonfe-pa.googleapis.com^
 ||c.bing.com^
 ||c.msn.com^
@@ -42,3 +39,5 @@
 ||static.hotjar.com^
 ||browser-intake-datadoghq.com^
 ||static.cloudflareinsights.com^
+||gcp.gvt2.com^
+||diagmon-serviceapi.samsungdm.com^
