@@ -21,3 +21,4 @@
 ||logs.netflix.com^
 ||ichnaea.netflix.com^
 ||metrics.roblox.com^
+||ecsv2.roblox.com^
