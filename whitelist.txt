@@ -36,6 +36,9 @@
 ||incoming.telemetry.mozilla.org^
 ||configv2.unityads.unity3d.com^
 ||config.unityads.unity3d.com^
+||gateway.unityads.unity3d.com^
+||customerevents.netflix.com^
+||othstr.beacon.qq.com^
 ||static.hotjar.com^
 ||browser-intake-datadoghq.com^
 ||static.cloudflareinsights.com^
