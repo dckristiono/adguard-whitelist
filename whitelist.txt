@@ -50,3 +50,4 @@
 ||guid.tpns.sgp.tencent.com^
 ||sspapi-prd.samsungrs.com^
 ||id.info.lgsmartad.com^
+||playstation.com^
