@@ -51,3 +51,13 @@
 ||sspapi-prd.samsungrs.com^
 ||id.info.lgsmartad.com^
 ||playstation.com^
+||ingest.us.sentry.io^
+||sdk.split.io^
+||auth.split.io^
+||att.launches.appsflyersdk.com^
+||api.mixpanel.com^
+||ac.alipay.com^
+||sdk-01.data.alfagift.id^
+||image.data.alfagift.id^
+||imdap-sea.alipay.com^
+||gw.zamcs.com^
