@@ -2,4 +2,4 @@
 ||app-measurement.com^
 ||analytics.google.com^
 ||ecsv2.roblox.com^
-
+||dana.id^
