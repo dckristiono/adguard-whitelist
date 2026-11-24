@@ -61,3 +61,5 @@
 ||image.data.alfagift.id^
 ||imdap-sea.alipay.com^
 ||gw.zamcs.com^
+||gw.zamcs.com^
+||app.ppgkemenag.com^
